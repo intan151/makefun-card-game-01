@@ -4,7 +4,8 @@
 [![rank](https://make.fun/badge/best-card-game-20261122-1826/intan151/makefun-card-game-01/rank.svg)](https://make.fun/c/best-card-game-20261122-1826)
 [![reward](https://make.fun/badge/best-card-game-20261122-1826/intan151/makefun-card-game-01/reward.svg)](https://make.fun/c/best-card-game-20261122-1826)
 
-A turn-based card battler, built for the make.fun **"Make the best card game"** bounty.
+A turn-based card battler, built for the make.fun **"Make the best card game"** bounty
+([bounty page](https://make.fun/bounty/best-card-game-20261122-1826)).
 You duel a Rival AI with a deck of four-element cards. Both sides start at **30 life**;
 reduce the Rival to 0 to win.
 
